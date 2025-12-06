@@ -1,6 +1,6 @@
 <div align="center">
 
-# 안녕하세요! 👋 저는 heon0120입니다
+# 👋 안녕하세요! 저는 heon0120 입니다.
 
 ### 💫 Physics Simulation Engineer | Backend Developer | Low-level Enthusiast
 
@@ -24,6 +24,8 @@ const developer = {
 };
 ```
 
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -44,9 +46,9 @@ const developer = {
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ### Physics Simulation
-![Geant4](https://img.shields.io/badge/Geant4-0085CA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik04IDEyTDEyIDhMMTYgMTIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPgo=&logoColor=white)
-![OpenMC](https://img.shields.io/badge/OpenMC-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDRMNCAxMkwxMiAyMEwyMCAxMkwxMiA0WiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+Cjwvc3ZnPgo=&logoColor=white)
-![OpenTOPAS](https://img.shields.io/badge/OpenTOPAS-6C5CE7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iNiIgeT0iNiIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+Cg==&logoColor=white)
+![Geant4](https://img.shields.io/badge/Geant4-0085CA?style=for-the-badge)
+![OpenMC](https://img.shields.io/badge/OpenMC-FF6B35?style=for-the-badge)
+![OpenTOPAS](https://img.shields.io/badge/OpenTOPAS-6C5CE7?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 
@@ -65,7 +67,7 @@ const developer = {
 #### Security WAF
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-#### ServerLess
+#### Serverless
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -91,7 +93,6 @@ const developer = {
 
 </div>
 
-
 ---
 
 ## 💡 Random Dev Quote
@@ -104,14 +105,12 @@ const developer = {
 
 ---
 
-
 <div align="center">
 
 ### ✨ "Success is one of the possible outcomes"
 
 ### 🔬 Physics Simulation × 💻 Backend Development
 
-
-⭐️ From [heon0120](https://github.com/heon0120)
+⭐️ From **[heon0120](https://github.com/heon0120)**
 
 </div>
