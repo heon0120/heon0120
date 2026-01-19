@@ -15,7 +15,7 @@
 ```typescript
 const developer = {
   id: "heon0120",
-  location: "Seoul, South Korea 🇰🇷",
+  location: "Gangneung, South Korea 🇰🇷",
   currentFocus: ["Physics Simulation", "Web Backend", "Assembly Learning"],
   languages: ["Korean", "English"],
   interests: ["Physics Simulation", "Server Backend", "Low-level Programming"],
